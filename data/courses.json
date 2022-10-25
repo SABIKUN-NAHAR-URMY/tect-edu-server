@@ -2,50 +2,43 @@
     {
       
       "id": 1,
-      "title": "Software Development",
-      "url": "https://via.placeholder.com/600/92c952",
-      "detail": "https://via.placeholder.com/150/92c952"
+      "name": "Design",
+      "image": "https://i.ibb.co/RzRLKNt/jeshoots-com-2v-D8l-Ihdnw-unsplash.jpg"
     },
     {
       
       "id": 2,
-      "title": "Graphic Design",
-      "url": "https://via.placeholder.com/600/771796",
-      "detail": "https://via.placeholder.com/150/771796"
+      "name": "Development",
+      "image": "https://i.ibb.co/KF9Kbxy/antonio-janeski-CHVTt0a-Gbx0-unsplash.jpg"
     },
     {
       
       "id": 3,
-      "title": "Python Programming",
-      "url": "https://via.placeholder.com/600/24f355",
-      "detail": "https://via.placeholder.com/150/24f355"
+      "name": "IT & Software",
+      "image": "https://i.ibb.co/f4wYRqx/clement-helardot-95-YRwf6-CNw8-unsplash.jpg"
     },
     {
       
       "id": 4,
-      "title": "Web Programming",
-      "url": "https://via.placeholder.com/600/d32776",
-      "detail": "https://via.placeholder.com/150/d32776"
+      "name": "Business",
+      "image": "https://i.ibb.co/TL6dJR6/docusign-7-RWBSYA9-Rro-unsplash.jpg"
     },
     {
       
       "id": 5,
-      "title": "JavaScript Course",
-      "url": "https://via.placeholder.com/600/f66b97",
-      "detail": "https://via.placeholder.com/150/f66b97"
+      "name": "Marketing",
+      "image": "https://i.ibb.co/6nFhz3V/jason-goodman-X8-H8v-Pcel-Pk-unsplash.jpg"
     },
     {
       
       "id": 6,
-      "title": "Networking Course",
-      "url": "https://via.placeholder.com/600/56a8c2",
-      "detail": "https://via.placeholder.com/150/56a8c2"
+      "name": "Networking Course",
+      "image": "https://i.ibb.co/gvyDDF7/hardware-networking-red-hat1s.jpg"
     },
     {
       
       "id": 7,
-      "title": "Software Quality Assurance",
-      "url": "https://via.placeholder.com/600/b0f7cc",
-      "detail": "https://via.placeholder.com/150/b0f7cc"
+      "name": "Technology",
+      "image": "https://i.ibb.co/4TstCWH/alexandre-debieve-FO7-JIlwj-Ot-U-unsplash.jpg"
     }
 ]
