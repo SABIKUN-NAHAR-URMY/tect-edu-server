@@ -1,44 +1,241 @@
 [
-    {
-      
-      "id": 1,
-      "name": "Design",
-      "image": "https://i.ibb.co/RzRLKNt/jeshoots-com-2v-D8l-Ihdnw-unsplash.jpg"
-    },
-    {
-      
-      "id": 2,
-      "name": "Development",
-      "image": "https://i.ibb.co/KF9Kbxy/antonio-janeski-CHVTt0a-Gbx0-unsplash.jpg"
-    },
-    {
-      
-      "id": 3,
-      "name": "IT & Software",
-      "image": "https://i.ibb.co/f4wYRqx/clement-helardot-95-YRwf6-CNw8-unsplash.jpg"
-    },
-    {
-      
-      "id": 4,
-      "name": "Business",
-      "image": "https://i.ibb.co/TL6dJR6/docusign-7-RWBSYA9-Rro-unsplash.jpg"
-    },
-    {
-      
-      "id": 5,
-      "name": "Marketing",
-      "image": "https://i.ibb.co/6nFhz3V/jason-goodman-X8-H8v-Pcel-Pk-unsplash.jpg"
-    },
-    {
-      
-      "id": 6,
-      "name": "Networking Course",
-      "image": "https://i.ibb.co/gvyDDF7/hardware-networking-red-hat1s.jpg"
-    },
-    {
-      
-      "id": 7,
-      "name": "Technology",
-      "image": "https://i.ibb.co/4TstCWH/alexandre-debieve-FO7-JIlwj-Ot-U-unsplash.jpg"
-    }
+  {
+    "id": 1,
+    "name": "Design Courses",
+    "image": "https://i.ibb.co/RzRLKNt/jeshoots-com-2v-D8l-Ihdnw-unsplash.jpg",
+    "courses": [
+      {
+        "rating": {
+          "number": 4.5,
+          "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Graphic design",
+        "author": {
+          "name": "Jimmy Dane",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "price": "$70.00"
+        },
+        "image_url": "https://i.ibb.co/4fwWmGw/emily-bernal-v9v-II5g-V8-Lw-unsplash.jpg",
+        "details": "Graphic design is about much more than creating images that are nice to look at. It's a form of visual communication that provides information, shares ideas and persuades the audience to consider new perspectives. 7 Types of graphic design: 1) Product design. 2) Branding design. 3) Website design. 4) Print design. 5) Publishing design. 6) Environmental design.7) Animation design."
+      },
+      {
+        "rating": {
+          "number": 4.8,
+          "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "Illustration",
+        "author": {
+          "name": "Jennifer Wood",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/60kw9XP/what-is-illustration-example-illustrator.jpg",
+        "details": "Illustration is the act of describing information or ideas by example, usually in a visual manner in the form of an image. Examples of illustrations include photographs, paintings, drawings, and graphs.Different styles of illustration: Block illustration. Charcoal illustration. Ink illustration. Woodcut illustration. Watercolor illustration. Advertising Illustration. Scientific illustration. Pencil Illustration."
+      },
+      {
+        "rating": {
+          "number": 4.5,
+          "badge": "Excellent"
+        },
+        "total_view": 980,
+        "title": "computer games design ",
+        "author": {
+          "name": "system",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "price": "$70.00"
+        },
+        "image_url": "https://i.ibb.co/2hcSwQw/kobu-agency-PXf-Jm-TRw-TZY-unsplash.jpg",
+        "details": " Computer Games Design and Development degree equips you with the skills needed to follow a career in games development or in the wider IT industry. The course covers the techniques used to create computer games, including the relevant theory and practice from Computer Science and Software Engineering. This provides you with an understanding of how games are designed and developed, in addition to the transferable knowledge and skills you can take forward in your career as games technology advances."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Development Courses",
+    "image": "https://i.ibb.co/KF9Kbxy/antonio-janeski-CHVTt0a-Gbx0-unsplash.jpg",
+    "courses": [
+      {
+        "rating": {
+          "number": 4.3,
+          "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "Mobile App Development",
+        "author": {
+          "name": "Jennifer Wood",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "price": "$70.00"
+        },
+        "image_url": "https://i.ibb.co/t2GtgPj/denny-muller-Hf-WA-Axq6-Ek-unsplash.jpg",
+        "details": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital .There are two dominant platforms in the modern smartphone market. One is the iOS platform from Apple Inc. The iOS platform is the operating system that powers Apple's popular line of iPhone smartphones. The second is Android from Google. The Android operating system is used not only by Google devices but also by many other OEMs to built their own smartphones and other smart devices.Although there are some similarities between these two platforms when building applications, developing for iOS vs. developing for Android involves using different software development kits (SDKs) and different development toolchain. While Apple uses iOS exclusively for its own devices, Google makes Android available to other companies provided they meet specific requirements such as including certain Google applications on the devices they ship. Developers can build apps for hundreds of millions of devices by targeting both of these platforms."
+      },
+      {
+        "rating": {
+          "number": 4.5,
+          "badge": "Excellent"
+        },
+        "total_view": 450,
+        "title": "Database Administration",
+        "author": {
+          "name": "John Pikeny",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "price": "$70.00"
+        },
+        "image_url": "https://i.ibb.co/0GZGwG9/images.jpg",
+        "details": "Database Administration consists of everything required to manage a database and make it available as needed. The database administrator (DBA) is the person who manages, backs up and ensures the availability of the data produced and consumed by today's organizations via their IT systems."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "IT & Software Courses",
+    "image": "https://i.ibb.co/f4wYRqx/clement-helardot-95-YRwf6-CNw8-unsplash.jpg",
+    "courses": [
+      {
+        "rating": {
+          "number": 4.5,
+          "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Web Development",
+        "author": {
+          "name": "Jimmy Dane",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "price": "$70.00"
+        },
+        "image_url": "https://i.ibb.co/8Y0hZPH/michael-baccin-Xopau-R-Nagk-unsplash.jpg",
+        "details": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.There are three types of web development roles: developers who specialize in the user interface (“front-end”), those who write the underlying code for running all website operations (“back-end”), and those who manage all aspects of a website (“full stack”)."
+      },
+      {
+        "rating": {
+          "number": 4.5,
+          "badge": "Excellent"
+        },
+        "total_view": 980,
+        "title": "Artificial Intelligence",
+        "author": {
+          "name": "system",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "price": "$70.00"
+        },
+        "image_url": "https://i.ibb.co/2qCMGtJ/markus-winkler-t-GBXi-Hc-PKr-M-unsplash.jpg",
+        "details": "Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.In general, AI systems work by ingesting large amounts of labeled training data, analyzing the data for correlations and patterns, and using these patterns to make predictions about future states. In this way, a chatbot that is fed examples of text chats can learn to produce lifelike exchanges with people, or an image recognition tool can learn to identify and describe objects in images by reviewing millions of examples. AI programming focuses on three cognitive skills: learning, reasoning and self-correction."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Business Courses",
+    "image": "https://i.ibb.co/TL6dJR6/docusign-7-RWBSYA9-Rro-unsplash.jpg",
+    "courses": [
+      {
+        "rating": {
+          "number": 4.5,
+          "badge": "Excellent"
+        },
+        "total_view": 733,
+        "title": "Business studies",
+        "author": {
+          "name": "Theo Minh Châu",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "price": "$70.00"
+        },
+        "image_url": "https://i.ibb.co/6rvpc9x/antenna-cw-cj-n-Fa14-unsplash.jpg",
+        "details": "A Business or Commerce degree or similar qualification helps you learn how and why organizations work. In your course, you'll gain knowledge about the different areas of running a business. Examples of these areas include: Strategy and planning, Financial literacy, Sales and operations, Risk analysis, Human resources management (HRM)."
+      },
+      {
+        "rating": {
+          "number": 4.5,
+          "badge": "Excellent"
+        },
+        "total_view": 733,
+        "title": "Finance",
+        "author": {
+          "name": "Theo Minh Châu",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "price": "$70.00"
+        },
+        "image_url": "https://i.ibb.co/4gLLyck/jason-goodman-6awf-TPLGa-CE-unsplash.jpg",
+        "details": "Finance, of financing, is the process of raising funds or capital for any kind of expenditure. It is the process of channeling various funds in the form of credit, loans, or invested capital to those economic entities that most need them or can put them to the most productive use."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Marketing Courses",
+    "image": "https://i.ibb.co/6nFhz3V/jason-goodman-X8-H8v-Pcel-Pk-unsplash.jpg",
+    "courses": [
+      {
+        "rating": {
+          "number": 4.5,
+          "badge": "Excellent"
+        },
+        "total_view": 127,
+        "title": "Digital marketing.",
+        "author": {
+          "name": "Ukrainska Pravda",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "price": "$70.00"
+        },
+        "image_url": "https://i.ibb.co/7v4jvKW/Untitled.png",
+        "details": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services."
+      },
+      {
+        "rating": {
+          "number": 4.5,
+          "badge": "Excellent"
+        },
+        "total_view": 127,
+        "title": "Advertising",
+        "author": {
+          "name": "Ukrainska Pravda",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "price": "$70.00"
+        },
+        "image_url": "https://i.ibb.co/qsWpGMm/What-is-Advertising-1.jpg",
+        "details": "The definition of advertising is an industry used to call the attention of the public to something, typically a product or service. The definition of advertisement is the means of communication in which a product, brand or service is promoted to a viewership in order to attract interest, engagement, and sales."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Networking Courses",
+    "image": "https://i.ibb.co/gvyDDF7/hardware-networking-red-hat1s.jpg",
+    "courses":[
+      {
+        "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "Network security",
+      "author": {
+        "name": "system",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "price":"$70.00"
+      },
+      "image_url": "https://i.ibb.co/HgK9Gc0/ensuring-network-security-e34d6ce4bb.png",
+      "details": "Network security is a broad term that covers a multitude of technologies, devices and processes. In its simplest term, it is a set of rules and configurations designed to protect the integrity, confidentiality and accessibility of computer networks and data using both software and hardware technologies. Every organization, regardless of size, industry or infrastructure, requires a degree of network security solutions in place to protect it from the ever-growing landscape of cyber threats in the wild today. Today's network architecture is complex and is faced with a threat environment that is always changing and attackers that are always trying to find and exploit vulnerabilities. These vulnerabilities can exist in a broad number of areas, including devices, data, applications, users and locations. For this reason, there are many network security management tools and applications in use today that address individual threats and exploits and also regulatory non-compliance. When just a few minutes of downtime can cause widespread disruption and massive damage to an organization's bottom line and reputation, it is essential that these protection measures are in place."
+    
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Technology Courses",
+    "image": "https://i.ibb.co/4TstCWH/alexandre-debieve-FO7-JIlwj-Ot-U-unsplash.jpg",
+    "courses":[
+      {
+        "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 300,
+      "title": "Complex systems",
+      "author": {
+        "name": "Jennifer Wood",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "price":"$70.00"
+      },
+      "image_url": "https://i.ibb.co/Y455bQ7/maxresdefault.jpg",
+      "details": "A complex system is an arrangement of a great number of related but various elements with intricate relationships and interconnections. Complexity research is applied in a wide range of fields including software development, architecture, artificial intelligence, city planning, networking, Bioinformatics and software engineering.Complex systems typically have input from many sources and are highly changeable. In the physical world, the earth's weather is one example of a complex system. In technology, the Internet is a prime example of a complex system or perhaps a system of systems: A large and complex system composed of multiple, dispersed, independent systems. The burgeoning Internet of Things (IoT) adds complexity as it develops by making it possible to gather data from and interact with an ever-increasing number of devices and objects, many of which can also communicate automatically with each other."
+      }
+    ]
+  }
 ]
