@@ -5,6 +5,7 @@
     "image": "https://i.ibb.co/RzRLKNt/jeshoots-com-2v-D8l-Ihdnw-unsplash.jpg",
     "courses": [
       {
+        "courseId": 1,
         "rating": {
           "number": 4.5,
           "badge": "Excellent"
@@ -20,6 +21,7 @@
         "details": "Graphic design is about much more than creating images that are nice to look at. It's a form of visual communication that provides information, shares ideas and persuades the audience to consider new perspectives. 7 Types of graphic design: 1) Product design. 2) Branding design. 3) Website design. 4) Print design. 5) Publishing design. 6) Environmental design.7) Animation design."
       },
       {
+        "courseId": 2,
         "rating": {
           "number": 4.8,
           "badge": "Excellent"
@@ -34,6 +36,7 @@
         "details": "Illustration is the act of describing information or ideas by example, usually in a visual manner in the form of an image. Examples of illustrations include photographs, paintings, drawings, and graphs.Different styles of illustration: Block illustration. Charcoal illustration. Ink illustration. Woodcut illustration. Watercolor illustration. Advertising Illustration. Scientific illustration. Pencil Illustration."
       },
       {
+        "courseId": 3,
         "rating": {
           "number": 4.5,
           "badge": "Excellent"
@@ -56,6 +59,7 @@
     "image": "https://i.ibb.co/KF9Kbxy/antonio-janeski-CHVTt0a-Gbx0-unsplash.jpg",
     "courses": [
       {
+        "courseId": 1,
         "rating": {
           "number": 4.3,
           "badge": "Excellent"
@@ -71,6 +75,7 @@
         "details": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital .There are two dominant platforms in the modern smartphone market. One is the iOS platform from Apple Inc. The iOS platform is the operating system that powers Apple's popular line of iPhone smartphones. The second is Android from Google. The Android operating system is used not only by Google devices but also by many other OEMs to built their own smartphones and other smart devices.Although there are some similarities between these two platforms when building applications, developing for iOS vs. developing for Android involves using different software development kits (SDKs) and different development toolchain. While Apple uses iOS exclusively for its own devices, Google makes Android available to other companies provided they meet specific requirements such as including certain Google applications on the devices they ship. Developers can build apps for hundreds of millions of devices by targeting both of these platforms."
       },
       {
+        "courseId": 2,
         "rating": {
           "number": 4.5,
           "badge": "Excellent"
@@ -93,6 +98,7 @@
     "image": "https://i.ibb.co/f4wYRqx/clement-helardot-95-YRwf6-CNw8-unsplash.jpg",
     "courses": [
       {
+        "courseId": 1,
         "rating": {
           "number": 4.5,
           "badge": "Excellent"
@@ -108,6 +114,7 @@
         "details": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.There are three types of web development roles: developers who specialize in the user interface (“front-end”), those who write the underlying code for running all website operations (“back-end”), and those who manage all aspects of a website (“full stack”)."
       },
       {
+        "courseId": 2,
         "rating": {
           "number": 4.5,
           "badge": "Excellent"
@@ -130,6 +137,7 @@
     "image": "https://i.ibb.co/TL6dJR6/docusign-7-RWBSYA9-Rro-unsplash.jpg",
     "courses": [
       {
+        "courseId": 1,
         "rating": {
           "number": 4.5,
           "badge": "Excellent"
@@ -145,6 +153,7 @@
         "details": "A Business or Commerce degree or similar qualification helps you learn how and why organizations work. In your course, you'll gain knowledge about the different areas of running a business. Examples of these areas include: Strategy and planning, Financial literacy, Sales and operations, Risk analysis, Human resources management (HRM)."
       },
       {
+        "courseId": 2,
         "rating": {
           "number": 4.5,
           "badge": "Excellent"
@@ -167,6 +176,7 @@
     "image": "https://i.ibb.co/6nFhz3V/jason-goodman-X8-H8v-Pcel-Pk-unsplash.jpg",
     "courses": [
       {
+        "courseId": 1,
         "rating": {
           "number": 4.5,
           "badge": "Excellent"
@@ -182,6 +192,7 @@
         "details": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services."
       },
       {
+        "courseId": 2,
         "rating": {
           "number": 4.5,
           "badge": "Excellent"
@@ -202,20 +213,22 @@
     "id": 6,
     "name": "Networking Courses",
     "image": "https://i.ibb.co/gvyDDF7/hardware-networking-red-hat1s.jpg",
-    "courses":[
+    "courses": [
       {
-        "rating": { "number": 4.5, "badge": "Excellent" },
-
-      "total_view": 100,
-      "title": "Network security",
-      "author": {
-        "name": "system",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-        "price":"$70.00"
-      },
-      "image_url": "https://i.ibb.co/HgK9Gc0/ensuring-network-security-e34d6ce4bb.png",
-      "details": "Network security is a broad term that covers a multitude of technologies, devices and processes. In its simplest term, it is a set of rules and configurations designed to protect the integrity, confidentiality and accessibility of computer networks and data using both software and hardware technologies. Every organization, regardless of size, industry or infrastructure, requires a degree of network security solutions in place to protect it from the ever-growing landscape of cyber threats in the wild today. Today's network architecture is complex and is faced with a threat environment that is always changing and attackers that are always trying to find and exploit vulnerabilities. These vulnerabilities can exist in a broad number of areas, including devices, data, applications, users and locations. For this reason, there are many network security management tools and applications in use today that address individual threats and exploits and also regulatory non-compliance. When just a few minutes of downtime can cause widespread disruption and massive damage to an organization's bottom line and reputation, it is essential that these protection measures are in place."
-    
+        "courseId": 1,
+        "rating": {
+          "number": 4.5,
+          "badge": "Excellent"
+        },
+        "total_view": 100,
+        "title": "Network security",
+        "author": {
+          "name": "system",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "price": "$70.00"
+        },
+        "image_url": "https://i.ibb.co/HgK9Gc0/ensuring-network-security-e34d6ce4bb.png",
+        "details": "Network security is a broad term that covers a multitude of technologies, devices and processes. In its simplest term, it is a set of rules and configurations designed to protect the integrity, confidentiality and accessibility of computer networks and data using both software and hardware technologies. Every organization, regardless of size, industry or infrastructure, requires a degree of network security solutions in place to protect it from the ever-growing landscape of cyber threats in the wild today. Today's network architecture is complex and is faced with a threat environment that is always changing and attackers that are always trying to find and exploit vulnerabilities. These vulnerabilities can exist in a broad number of areas, including devices, data, applications, users and locations. For this reason, there are many network security management tools and applications in use today that address individual threats and exploits and also regulatory non-compliance. When just a few minutes of downtime can cause widespread disruption and massive damage to an organization's bottom line and reputation, it is essential that these protection measures are in place."
       }
     ]
   },
@@ -223,18 +236,22 @@
     "id": 7,
     "name": "Technology Courses",
     "image": "https://i.ibb.co/4TstCWH/alexandre-debieve-FO7-JIlwj-Ot-U-unsplash.jpg",
-    "courses":[
+    "courses": [
       {
-        "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 300,
-      "title": "Complex systems",
-      "author": {
-        "name": "Jennifer Wood",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-        "price":"$70.00"
-      },
-      "image_url": "https://i.ibb.co/Y455bQ7/maxresdefault.jpg",
-      "details": "A complex system is an arrangement of a great number of related but various elements with intricate relationships and interconnections. Complexity research is applied in a wide range of fields including software development, architecture, artificial intelligence, city planning, networking, Bioinformatics and software engineering.Complex systems typically have input from many sources and are highly changeable. In the physical world, the earth's weather is one example of a complex system. In technology, the Internet is a prime example of a complex system or perhaps a system of systems: A large and complex system composed of multiple, dispersed, independent systems. The burgeoning Internet of Things (IoT) adds complexity as it develops by making it possible to gather data from and interact with an ever-increasing number of devices and objects, many of which can also communicate automatically with each other."
+        "courseId": 1,
+        "rating": {
+          "number": 4.5,
+          "badge": "Excellent"
+        },
+        "total_view": 300,
+        "title": "Complex systems",
+        "author": {
+          "name": "Jennifer Wood",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "price": "$70.00"
+        },
+        "image_url": "https://i.ibb.co/Y455bQ7/maxresdefault.jpg",
+        "details": "A complex system is an arrangement of a great number of related but various elements with intricate relationships and interconnections. Complexity research is applied in a wide range of fields including software development, architecture, artificial intelligence, city planning, networking, Bioinformatics and software engineering.Complex systems typically have input from many sources and are highly changeable. In the physical world, the earth's weather is one example of a complex system. In technology, the Internet is a prime example of a complex system or perhaps a system of systems: A large and complex system composed of multiple, dispersed, independent systems. The burgeoning Internet of Things (IoT) adds complexity as it develops by making it possible to gather data from and interact with an ever-increasing number of devices and objects, many of which can also communicate automatically with each other."
       }
     ]
   }
