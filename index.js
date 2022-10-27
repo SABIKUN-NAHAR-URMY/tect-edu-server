@@ -21,6 +21,12 @@ app.get('/courses/:id', (req, res) => {
   res.send(selectedDetails);
 })
 
+app.get('/courses/:id', (req, res) => {
+  const id = req.params.id;
+  const selectedItems = courses.find(c => c.id == id);
+  res.send(selectedItems);
+})
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
